@@ -22,8 +22,8 @@ This game as been realized on Unreal Engine 4.25
 
 ### Team and organization
 
-This game as been realized by :
-Alizée Meyer - Puzzle game
-Vincent Ribeiro Gomes - Simon Game
-Huynh Duc Minh Pham - Room
-Marina Zhuravleva - Menus
+This game as been realized by :  
+Alizée Meyer - Puzzle game  
+Vincent Ribeiro Gomes - Simon Game  
+Huynh Duc Minh Pham - Room  
+Marina Zhuravleva - Menus  
