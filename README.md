@@ -23,7 +23,6 @@ This game as been realized on Unreal Engine 4.25
 ### Team and organization
 
 This game as been realized by :  
-Alizée Meyer - Puzzle game  
-Vincent Ribeiro Gomes - Simon Game  
+Alizée Meyer - Puzzle game and Start menu  
+Vincent Ribeiro Gomes - Simon Game and Pause menu  
 Huynh Duc Minh Pham - Room  
-Marina Zhuravleva - Menus  
