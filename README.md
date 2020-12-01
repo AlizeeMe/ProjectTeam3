@@ -26,7 +26,7 @@ This game as been realized on Unreal Engine 4.25
 
 ### How to create an exe
 
-In the top menu : 
+In the top menu of the Unreal Engine editor : 
 
 File -> Package Project -> Windows
 
